@@ -1,0 +1,44 @@
+body{
+  background-color: #ede5e5b3;
+
+}
+
+
+.navbar-inverse .navbar-brand {
+  color: #ffffff;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+  border-color: #fffcfc;
+
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+  color: #fff;
+
+}
+
+#chicken {
+  background-color: rgb(164, 168, 168);
+}
+
+#Beef {
+  background-color: rgb(145, 145, 145);
+}
+
+#Sushi {
+  background-color: rgb(128, 128, 128);
+}
+
+h2{
+  color: white;
+}
+p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(255, 231, 231);
+  font-size: 150%;
+}
+
+#chicken , #Sushi , #Beef {
+  border:  2px solid #ede5e5b3 ;
+}
